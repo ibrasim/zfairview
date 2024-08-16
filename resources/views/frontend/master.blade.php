@@ -79,7 +79,7 @@ https://templatemo.com/tm-574-mexant
   <div class="swiper-container" id="top">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <div class="slide-inner" style="background-image:url(assets/images/slide-10.jpg)">
+        <div class="slide-inner" style="width:100%;height:600px; background-image:url(assets/images/slide-10.jpg)" >
           <div class="container">
             <div class="row">
               <div class="col-lg-8">
@@ -102,7 +102,7 @@ https://templatemo.com/tm-574-mexant
         </div>
       </div>
       <div class="swiper-slide">
-        <div class="slide-inner" style="background-image:url(assets/images/slide-11.jpg)">
+        <div class="slide-inner" style="width:100%;height:600px; background-image:url(assets/images/slide-11.jpg)">
           <div class="container">
             <div class="row">
               <div class="col-lg-8">
@@ -125,7 +125,7 @@ https://templatemo.com/tm-574-mexant
         </div>
       </div>
       <div class="swiper-slide">
-        <div class="slide-inner" style="background-image:url(assets/images/slide-12.jpg)">
+        <div class="slide-inner" style="width:100%;height:600px; background-image:url(assets/images/slide-12.jpg)">
           <div class="container">
             <div class="row">
               <div class="col-lg-8">
@@ -148,6 +148,81 @@ https://templatemo.com/tm-574-mexant
         </div>
       </div>
 
+
+<!--  -->
+<div class="swiper-slide">
+        <div class="slide-inner" style="width:100%;height:600px; background-image:url(assets/images/slide-14.jpg)">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8">
+                <div class="header-text">
+                  <!-- <h2>Towards<br> Completion of <em>4 apartments .. Target... mid 2024</em></h2> -->
+                  <div class="div-dec"></div>
+                  <!-- <p>When you browse through different tags on TemplateMo website, you can see a variety of CSS templates which are responsive website designs for different individual needs. Please tell your friends about our website. Thank you.</p> -->
+                  <div class="buttons">
+                    <div class="green-button">
+                      <!-- <a href="#">Discover More</a> -->
+                    </div>
+                    <div class="orange-button">
+                      <!-- <a href="#">Contact Us</a> -->
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--  -->
+
+      <div class="swiper-slide">
+        <div class="slide-inner" style="width:100%;height:600px; background-image:url(assets/images/slide-15.jpg)">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8">
+                <div class="header-text">
+                  <!-- <h2>Towards<br> Completion of <em>4 apartments .. Target... mid 2024</em></h2> -->
+                  <div class="div-dec"></div>
+                  <!-- <p>When you browse through different tags on TemplateMo website, you can see a variety of CSS templates which are responsive website designs for different individual needs. Please tell your friends about our website. Thank you.</p> -->
+                  <div class="buttons">
+                    <div class="green-button">
+                      <!-- <a href="#">Discover More</a> -->
+                    </div>
+                    <div class="orange-button">
+                      <!-- <a href="#">Contact Us</a> -->
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="swiper-slide">
+        <div class="slide-inner" style="width:100%;height:600px; background-image:url(assets/images/slide-16.jpg)">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8">
+                <div class="header-text">
+                  <!-- <h2>Towards<br> Completion of <em>4 apartments .. Target... mid 2024</em></h2> -->
+                  <div class="div-dec"></div>
+                  <!-- <p>When you browse through different tags on TemplateMo website, you can see a variety of CSS templates which are responsive website designs for different individual needs. Please tell your friends about our website. Thank you.</p> -->
+                  <div class="buttons">
+                    <div class="green-button">
+                      <!-- <a href="#">Discover More</a> -->
+                    </div>
+                    <div class="orange-button">
+                      <!-- <a href="#">Contact Us</a> -->
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 
 
 
